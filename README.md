@@ -13,19 +13,15 @@ React / Web開発を中心に勉強しています 💻
 - 💻 Webエンジニア志望
 - 🌱 現在 **React** を学習中
 - 💪 筋トレとプログラミングの二刀流
-
 ---
 
 ## 🛠 技術スタック
-
----
-
 ### ある程度使える技術
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,python,django,git,github,vscode" />
 </p>
----
+
 ### 学習中
 
 <p>
