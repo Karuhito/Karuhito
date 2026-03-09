@@ -18,8 +18,18 @@ React / Web開発を中心に勉強しています 💻
 
 ## 🛠 技術スタック
 
+---
+
+### ある程度使える技術
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,django,git,github,vscode" />
+</p>
+---
+### 学習中
+
+<p>
+<img src="https://skillicons.dev/icons?i=react," />
 </p>
 
 ---
@@ -52,12 +62,7 @@ React / Web開発を中心に勉強しています 💻
 
 ## 🎯 今後の目標
 
-- Reactでポートフォリオアプリ制作
-- Djangoでバックエンド開発
-- IT企業のインターン参加
+- Reactを学習し、webアプリを制作する。
+- IT企業のインターンに参加し、現場でスキルを身につける
 
 ---
-
-<p align="center">
-プロフィールを見ていただきありがとうございます 🙌
-</p>
