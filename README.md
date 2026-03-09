@@ -1,81 +1,63 @@
-# Hi there 👋 I'm Kazuto
+<h1 align="center">こんにちは 👋</h1>
+<h3 align="center">Webエンジニアを目指している専門学生です</h3>
 
-💻 Webエンジニア志望の専門学生です。  
-現在は **フロントエンドとバックエンド両方できるエンジニア** を目指して学習しています。
+<p align="center">
+React / Web開発を中心に勉強しています 💻
+</p>
 
 ---
 
-## 🚀 About Me
+## 🚀 自己紹介
 
 - 🎓 プログラミング専門学校 在学中（2028年卒業予定）
+- 💻 Webエンジニア志望
+- 🌱 現在 **React** を学習中
 - 💪 筋トレとプログラミングの二刀流
-- 🌱 React / Web開発を学習中
-- 🎯 目標：インターン参加 → フルスタックエンジニア
 
 ---
 
-## 🛠 Skills
+## 🛠 技術スタック
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- React（学習中）
-
-### Backend
-- Python
-- Django
-
-### Tools
-- Git
-- GitHub
-- VS Code
-
----
-
-## 📚 Currently Learning
-
-- React
-- フロントエンド設計
-- Webアプリ開発
-
----
-
-## 📦 Projects
-
-### 🏋️ トレーニング記録アプリ
-チーム開発で制作したトレーニング記録アプリ  
-- 消費カロリー計算  
-- トレーニング履歴管理  
-- モバイル / PC レスポンシブ対応  
-
----
-
-### ⚛ React Learning Repository
-Reactの基礎を学ぶための学習リポジトリ
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-[![Karuhito's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karuhito)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Karuhito&show_icons=true&theme=tokyonight" />
 
 ---
 
-## 📈 Top Languages
+## 📈 使用言語
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karuhito&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karuhito&layout=compact&theme=tokyonight" />
 
 ---
 
-## 🎯 Goals
+## 📌 制作物
 
-- Reactでポートフォリオアプリ作成
+### 🏋️ トレーニング記録アプリ
+
+チーム開発で制作したトレーニング記録アプリ
+
+主な機能
+
+- トレーニング記録
+- 消費カロリー計算
+- レスポンシブ対応（PC / モバイル）
+
+---
+
+## 🎯 今後の目標
+
+- Reactでポートフォリオアプリ制作
 - Djangoでバックエンド開発
-- インターン参加
+- IT企業のインターン参加
 
 ---
 
-## 📫 Contact
-
-- GitHub: https://github.com/Karuhito
+<p align="center">
+プロフィールを見ていただきありがとうございます 🙌
+</p>
