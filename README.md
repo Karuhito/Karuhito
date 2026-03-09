@@ -58,7 +58,7 @@ Reactの基礎を学ぶための学習リポジトリ
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Karuhito&show_icons=true)
+[![Karuhito's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karuhito)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
