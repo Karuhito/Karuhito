@@ -104,6 +104,8 @@ Djangoで作成した日記+TODOアプリ
 - Reactを学習し、Webアプリを制作する。
 - IT企業のインターンに参加し、現場でスキルを身につける
 
+---
+
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Karuhito/Karuhito/blob/output/github-contribution-grid-snake.svg)
