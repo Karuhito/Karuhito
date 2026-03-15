@@ -26,7 +26,8 @@
 ### 📝 ジャーナルアプリ
 
 Djangoで作成した日記+TODOアプリ
-[GitHub Repository](https://github.com/Karuhito/)
+
+[GitHub Repository](https://github.com/Karuhito/JournaLog_app)
 
 主な機能
 
@@ -47,6 +48,8 @@ Djangoで作成した日記+TODOアプリ
 ### 🏋️ トレーニング記録アプリ
 
 チーム開発でトレーニング記録アプリを制作しました。
+
+[GitHub Repository](https://github.com/Tech-Jam-KDG-2026-Winter/Team-13-HTML-CSS-JS)
 
 主な機能
 
@@ -99,8 +102,9 @@ Djangoで作成した日記+TODOアプリ
 
 ## 🎯 今後の目標
 
-- Reactを学習し、Webアプリを制作する。
-- IT企業のインターンに参加し、現場でスキルを身につける
+- Reactを学習し、Webアプリケーションを制作する
+- GitHubにポートフォリオを充実させる
+- IT企業のインターンに参加し、実務レベルの開発経験を積む
 
 ---
 
