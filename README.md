@@ -26,6 +26,7 @@
 ### 📝 ジャーナルアプリ
 
 Djangoで作成した日記+TODOアプリ
+[GitHub Repository](https://github.com/Karuhito/)
 
 主な機能
 
@@ -89,13 +90,10 @@ Djangoで作成した日記+TODOアプリ
 
 ## 📊 GitHub Stats
 
+<p align= "center">
 <img src="https://github-readme-stats.vercel.app/api?username=Karuhito&show_icons=true&theme=tokyonight" />
-
----
-
-## 📈 使用言語
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karuhito&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
