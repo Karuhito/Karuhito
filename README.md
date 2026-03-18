@@ -27,7 +27,7 @@
 
 Djangoで作成した日記+TODOアプリ
 
-[GitHub Repository](https://github.com/Karuhito/JournaLog_app)
+[GitHub Repository]()
 
 主な機能
 
