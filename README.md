@@ -16,7 +16,7 @@
 ### 学習中
 
 <p>
-<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=react,ts,go" />
 </p>
 
 ---
