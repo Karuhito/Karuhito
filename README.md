@@ -27,10 +27,10 @@
 
 Djangoで作成した日記+TODOアプリ
 
-[![Repository URL][badge-url]][repository]
+[![Repository URL1][badge-url]][repository1]
 
 [badge-url]:  https://img.shields.io/badge/github-repo-blue?logo=github
-[repository]: https://github.com/Karuhito/JournaLog_app
+[repository1]: https://github.com/Karuhito/JournaLog_app
 
 
 主な機能
@@ -53,10 +53,10 @@ Djangoで作成した日記+TODOアプリ
 
 チーム開発でトレーニング記録アプリを制作しました。
 
-[![Repository URL][badge-url]][repository]
+[![Repository URL2][badge-url]][repository2]
 
 [badge-url]:  https://img.shields.io/badge/github-repo-blue?logo=github
-[repository]: https://github.com/Tech-Jam-KDG-2026-Winter/Team-13-HTML-CSS-JS
+[repository2]: https://github.com/Tech-Jam-KDG-2026-Winter/Team-13-HTML-CSS-JS
 
 主な機能
 
