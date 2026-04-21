@@ -10,13 +10,13 @@
 ### ある程度使える技術
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,django,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,python,django,git,github,vscode" />
 </p>
 
 ### 学習中
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,ts,go" />
+<img src="https://skillicons.dev/icons?i=react,ts,js" />
 </p>
 
 ---
