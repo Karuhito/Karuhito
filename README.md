@@ -1,7 +1,7 @@
 # Karuhito's Profile
 ## 自己紹介
 - ### webエンジニア志望の学生
-- ### 茨城県石岡市出身
+- ### 茨城県石岡市出身2006年生まれ
 - ### フロントエンド技術を学習中
 
 ## 🛠 技術スタック
@@ -51,9 +51,9 @@ Djangoで作成した日記+TODOアプリ
 
 チーム開発でトレーニング記録アプリを制作しました。
 
-[![Repository URL2][badge-url]][repository2]
+[![Repository URL2][badge-url2]][repository2]
 
-[badge-url]:  https://img.shields.io/badge/github-repo-blue?logo=github
+[badge-url2]:  https://img.shields.io/badge/github-repo-blue?logo=github
 [repository2]: https://github.com/Tech-Jam-KDG-2026-Winter/Team-13-HTML-CSS-JS
 
 主な機能
@@ -98,13 +98,14 @@ Djangoで作成した日記+TODOアプリ
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Karuhito&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karuhito" />
-</a>
-
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Karuhito&count_private=true&show_icons=true" height="180" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karuhito&layout=compact" height="180" />
+  </a>
+</div>
 
 ---
 
