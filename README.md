@@ -98,10 +98,13 @@ Djangoで作成した日記+TODOアプリ
 
 ## 📊 GitHub Stats
 
-<p align= "center">
-<img src="https://github-readme-stats.vercel.app/api?username=Karuhito&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karuhito&layout=compact&theme=tokyonight" />
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Karuhito&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karuhito" />
+</a>
+
 
 ---
 
