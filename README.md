@@ -21,6 +21,8 @@
 
 ## 📌 制作物
 
+## 🏫 学校で制作したアプリ
+
 ### 📝 ジャーナルアプリ
 
 Djangoで作成した日記+TODOアプリ
@@ -62,7 +64,32 @@ Djangoで作成した日記+TODOアプリ
 - 消費カロリー計算
 - レスポンシブ対応（PC / モバイル）
 
+使用技術
+- VanillaJS
+- Firebase
+- 
+
 私は主に種目データ管理、消費カロリー計算の部分の実装を担当しました。
+
+---
+### 👤 個人制作アプリ
+### ⌚️ グループ空き時間可視化アプリ
+
+グループ内の全員の共通の空き時間を可視化・共有できるアプリを制作しました。
+
+[![Repository URL3][badge-url3]][repository3]
+
+[badge-url3]:  https://img.shields.io/badge/github-repo-blue?logo=github
+[repository3]: https://github.com/Karuhito/group-schedule-adjustment-app
+
+主な機能
+- Discord認証 (Discordアカウントでログイン)
+- グループ管理 グループ作成・招待コード生成
+- 時間を記録する機能
+- タイムライン表示 
+- グループ内メッセージ機能 (開発中)
+
+コミュケーションアプリのDiscordの拡張機能的な立ち位置でこんなアプリがあったら良いなと思い制作しました。
 
 ---
 
@@ -70,7 +97,7 @@ Djangoで作成した日記+TODOアプリ
 
 ### 2024年
 **4月〜8月**
-- ZEN Study(旧N予備校)にてプログラミング入門アプリケーション開発講座を履修
+- <a href="https://www.nnn.ed.nico/">ZEN Study(旧N予備校)</a>にてプログラミング入門アプリケーション開発講座を履修
 
 ### 2025年
 **4月〜6月**
@@ -85,7 +112,7 @@ Djangoで作成した日記+TODOアプリ
 
 **11月〜翌1月**
 - Djangoを学習
-- 個人制作でジャーナルアプリを制作
+- 個人制作で<a href="https://github.com/Karuhito/JournaLog_app">日記+ToDoアプリ</a>を制作
 
 ### 2026年
 **1月〜2月**
@@ -96,7 +123,7 @@ Djangoで作成した日記+TODOアプリ
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -105,9 +132,9 @@ Djangoで作成した日記+TODOアプリ
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karuhito&layout=compact" height="180" />
   </a>
-</div>
+</div> 
 
----
+--- -->
 
 ## 🎯 今後の目標
 
