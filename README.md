@@ -8,13 +8,13 @@
 ### ある程度使える技術
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,django,git,mysql,github,vscode" />
 </p>
 
 ### 学習中
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,java" />
+<img src="https://skillicons.dev/icons?i=ts,react,java,postgresql" />
 </p>
 
 ---
