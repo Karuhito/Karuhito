@@ -160,9 +160,10 @@ Djangoで作成した日記+TODOアプリ
 
 ## 📊 GitHub Stats
 
-
-<img src="https://github-readme-stats-sooty-six-56.vercel.app/api/top-langs/?username=Karuhito&layout=compact" />
-<img src="https://streak-stats.demolab.com?user=Karuhito&locale=ja" />
+<div align="center">
+  <img src="https://github-readme-stats-sooty-six-56.vercel.app/api/top-langs/?username=Karuhito&layout=compact" />
+  <img src="https://streak-stats.demolab.com?user=Karuhito&locale=ja" />
+</div>
 
 ---
 
