@@ -158,18 +158,14 @@ Djangoで作成した日記+TODOアプリ
 - <a href="https://github.com/Karuhito/belongings-check-app">忘れ物管理アプリ</a>を制作
 ---
 
-<!-- ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Karuhito&count_private=true&show_icons=true" height="180" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karuhito&layout=compact" height="180" />
-  </a>
-</div> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karuhito&layout=compact" />
+  <img src="https://streak-stats.demolab.com?user=Karuhito&locale=ja" />
+</div>
 
---- -->
+---
 
 ## 🎯 今後の目標
 
