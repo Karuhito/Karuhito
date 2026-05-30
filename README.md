@@ -48,6 +48,8 @@ Djangoで作成した日記+TODOアプリ
 
 自分の習慣をアナログ -> デジタルに移行することを意識して制作しました。
 
+---
+
 ### 🏋️ トレーニング記録アプリ
 
 チーム開発でトレーニング記録アプリを制作しました。
@@ -70,29 +72,55 @@ Djangoで作成した日記+TODOアプリ
 私は主に種目データ管理、消費カロリー計算の部分の実装を担当しました。
 
 ---
-### 👤 個人制作アプリ
-### ⌚️ グループ空き時間可視化アプリ
 
-グループ内の全員の共通の空き時間を可視化・共有できるアプリを制作しました。
+## 👤 個人制作アプリ
+
+### 👜 忘れ物確認アプリ
+
+外出する際に持っていくものをあらかじめリストにしてまとめておき、外出時に記録することで忘れ物を防ぐアプリを制作しました
 
 [![Repository URL3][badge-url3]][repository3]
 
 [badge-url3]:  https://img.shields.io/badge/github-repo-blue?logo=github
-[repository3]: https://github.com/Karuhito/group-schedule-adjustment-app
+[repository3]: https://github.com/Karuhito/belongings-check-app
 
-主な機能
+#### 主な機能
+- アイテムの追加/削除
+- チェックボックスで持ち物の確認状態をトグル
+- データはブラウザのlocalStorageに自動保存(ページを閉じても消えない)
+
+#### 使用技術
+- TypeScript + React
+- Tailwind CSS
+
+ブラウザのlocalStorageの仕組みを学ぶことを目的にする点と、日常でたまに起きる忘れ物を防止するために制作しました。
+
+---
+
+### ⌚️ グループ空き時間可視化アプリ
+
+グループ内の全員の共通の空き時間を可視化・共有できるアプリを制作しました。
+
+
+
+[![Repository URL4][badge-url4]][repository4]
+
+[badge-url4]:  https://img.shields.io/badge/github-repo-blue?logo=github
+[repository4]: https://github.com/Karuhito/group-schedule-adjustment-app
+
+#### 主な機能
 - Discord認証 (Discordアカウントでログイン)
 - グループ管理 グループ作成・招待コード生成
 - 時間を記録する機能
 - タイムライン表示 
 - グループ内メッセージ機能 (開発中)
 
-使用技術
+#### 使用技術
 - TypeScript + React
 - FastAPI
 - Supabase(PostgreSQL)
 
-コミュケーションアプリのDiscordの拡張機能的な立ち位置でこんなアプリがあったら良いなと思い制作をしています。
+コミュケーションアプリのDiscordで起きる通話募集をかけても誰も来ない問題を解決するためにアプリを開発しました。
 
 ---
 
@@ -121,10 +149,13 @@ Djangoで作成した日記+TODOアプリ
 **1月〜2月**
 - 校内でのチーム開発でトレーニング記録アプリを制作
 
-**3月〜現在**
+**3月〜5月**
 - Reactを学習中
-- <a href="https://github.com/Karuhito/group-schedule-adjustment-app">空き時間共有・可視化アプリ</a>を開発中
+- <a href="https://github.com/Karuhito/group-schedule-adjustment-app">空き時間共有・可視化アプリ</a>を制作
 
+**6月〜現在**
+- 自己学習ではTypeScript、学校ではJavaを学習しています
+- <a href="https://github.com/Karuhito/belongings-check-app">忘れ物管理アプリ</a>を制作
 ---
 
 <!-- ## 📊 GitHub Stats
