@@ -150,7 +150,7 @@ Djangoで作成した日記+TODOアプリ
 - 校内でのチーム開発でトレーニング記録アプリを制作
 
 **3月〜5月**
-- Reactを学習中
+- Reactを学習
 - <a href="https://github.com/Karuhito/group-schedule-adjustment-app">空き時間共有・可視化アプリ</a>を制作
 
 **6月〜現在**
