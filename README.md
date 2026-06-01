@@ -33,13 +33,13 @@ Djangoで作成した日記+TODOアプリ
 [repository1]: https://github.com/Karuhito/JournaLog_app
 
 
-主な機能
+#### 主な機能
 - Todo記録
 - 日記投稿
 - 編集 / 削除
 - ログイン機能
 
-使用技術
+#### 使用技術
 - Django
 - Python
 - HTML
@@ -59,13 +59,13 @@ Djangoで作成した日記+TODOアプリ
 [badge-url2]:  https://img.shields.io/badge/github-repo-blue?logo=github
 [repository2]: https://github.com/Tech-Jam-KDG-2026-Winter/Team-13-HTML-CSS-JS
 
-主な機能
+#### 主な機能
 
 - トレーニング記録
 - 消費カロリー計算
 - レスポンシブ対応（PC / モバイル）
 
-使用技術
+#### 使用技術
 - VanillaJS
 - Firebase
 
@@ -92,6 +92,7 @@ Djangoで作成した日記+TODOアプリ
 #### 使用技術
 - TypeScript + React
 - Tailwind CSS
+- localStorage
 
 ブラウザのlocalStorageの仕組みを学ぶことを目的にする点と、日常でたまに起きる忘れ物を防止するために制作しました。
 
@@ -164,6 +165,7 @@ Djangoで作成した日記+TODOアプリ
   <img src="https://github-readme-stats-sooty-six-56.vercel.app/api/top-langs/?username=Karuhito&layout=compact&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=Karuhito&locale=ja&theme=tokyonight" />
 </div>
+
 ---
 
 ## 🎯 今後の目標
