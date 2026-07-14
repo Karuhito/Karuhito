@@ -22,7 +22,7 @@
 ### 学習中
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,react,java,postgresql" />
+<img src="https://skillicons.dev/icons?i=ts,react,java,spring,postgresql" />
 </p>
 
 ---
