@@ -1,8 +1,8 @@
 # Karuhito's Profile
 --- 
 ## 自己紹介
-- **webエンジニア志望の専門学生(28卒)**
-- **現在はバックエンド(Javaなど)を主に学校で学び、フロントエンド(TypeScript、React)を独学で学んでいます。**
+**webエンジニア志望の専門スクール生(28卒)**
+**現在はバックエンド(Javaなど)を主にスクールで学び、フロントエンド(TypeScript、React)を独学で学んでいます。**
 
 ---
 
@@ -24,7 +24,7 @@
 
 # 📌 制作物
 
-## 🏫 学校で制作したアプリ
+## 🏫 スクールで制作したアプリ
 
 ### 📝 ジャーナルアプリ
 
@@ -60,7 +60,7 @@ Djangoで作成した日記+TODOアプリ
 
 ### 🏋️ トレーニング記録アプリ
 
-チーム開発でトレーニング記録アプリを制作しました。
+スクール内でのチーム開発イベントに参加しトレーニング記録アプリを制作しました。
 
 [![Repository URL2][badge-url2]][repository2]
 
@@ -82,7 +82,7 @@ Djangoで作成した日記+TODOアプリ
 - Vanilla JS
 - Firebase
 
-私は主に種目データ管理、消費カロリー計算の部分の実装を担当しました。
+私は主に種目データ管理、消費カロリー計算、種目部位絞り込みの部分の実装を担当しました。
 
 ---
 
@@ -175,9 +175,12 @@ Djangoで作成した日記+TODOアプリ
 - Reactを学習
 - <a href="https://github.com/Karuhito/group-schedule-adjustment-app">空き時間共有・可視化アプリ</a>を制作
 
-**6月〜現在**
-- 自己学習ではTypeScript、学校ではJavaを学習しています
+**6月**
 - <a href="https://github.com/Karuhito/belongings-check-app">忘れ物管理アプリ</a>を制作
+
+**7月~現在**
+- スクール内の友人2人と3人体制で<a href="https://github.com/sisicity4/OrderRoom">複数人の希望や注文をひとつに集約するアプリ</a>を開発中。私はバックエンドを担当しています。
+
 ---
 
 ## 📊 GitHub Stats
