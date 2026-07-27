@@ -37,3 +37,12 @@ jobs:
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
           git push
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+            GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+            USERNAME: ${{ github.repository_owner }}
+            BRANCH_NAME: "main"
+            UTC_OFFSET: 9   # 日本時間(JST)なので+9
