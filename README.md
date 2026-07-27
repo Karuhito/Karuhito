@@ -184,6 +184,7 @@ Djangoで作成した日記+TODOアプリ
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
+![Productive Time](./profile-summary-card-output/default/4-productive-time.svg)
 
 ---
 
