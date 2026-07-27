@@ -1,5 +1,5 @@
 # Karuhito's Profile
-
+--- 
 ## 自己紹介
 
 **KADOKWAドワンゴ情報工科学院という専門スクールでプログラミングを学んでいます。**
@@ -10,10 +10,11 @@
 ---
 
 ## 🛠 技術スタック
+
 ### ある程度使える技術
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,django,git,mysql,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,django,git,mysql" />
 </p>
 
 ### 学習中
@@ -38,18 +39,21 @@ Djangoで作成した日記+TODOアプリ
 [repository1]: https://github.com/Karuhito/JournaLog_app
 
 
-#### 主な機能
+### 主な機能
 - Todo記録
 - 日記投稿
 - 編集 / 削除
 - ログイン機能
 
-#### 使用技術
-- Django
-- Python
-- HTML
-- CSS
-- JavaScript
+### 使用技術
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,django,postgresql,supabase"/>
+</p>
+
+- HTML + CSS(BootStrap)
+- JS(一部アニメーション表示)
+- Python + Django
+- PostgreSQL(supabase)
 
 自分の習慣をアナログ -> デジタルに移行することを意識して制作しました。
 
@@ -73,7 +77,12 @@ Djangoで作成した日記+TODOアプリ
 - レスポンシブ対応（PC / モバイル）
 
 #### 使用技術
-- VanillaJS
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,firebase"/>
+</p>
+
+- HTML + CSS
+- Vanilla JS
 - Firebase
 
 私は主に種目データ管理、消費カロリー計算の部分の実装を担当しました。
@@ -97,6 +106,10 @@ Djangoで作成した日記+TODOアプリ
 - データはブラウザのlocalStorageに自動保存(ページを閉じても消えない)
 
 #### 使用技術
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,ts,react,tailwind"/>
+</p>
+
 - TypeScript + React
 - Tailwind CSS
 - localStorage
@@ -124,6 +137,10 @@ Djangoで作成した日記+TODOアプリ
 - グループ内メッセージ機能 (開発中)
 
 #### 使用技術
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,ts,python,postgresql,react,tailwind,fastapi,supabase"/>
+</p>
+
 - TypeScript + React
 - FastAPI
 - Supabase(PostgreSQL)
@@ -178,7 +195,7 @@ Djangoで作成した日記+TODOアプリ
 ## 🎯 今後の目標
 
 - GitHubにポートフォリオを充実させる
-- IT資格の取得(基本情報技術、CCNA等)
+- IT資格の取得(基本情報技術等)
 - IT企業のインターンに参加し、実務レベルの開発経験を積む
 
 ---
