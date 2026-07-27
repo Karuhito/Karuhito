@@ -1,7 +1,7 @@
 # Karuhito's Profile
 --- 
 ## 自己紹介
-**webエンジニア志望の専門学生**
+**webエンジニア志望の専門学生(28卒)**
 **現在はバックエンド(Javaなど)を主に学校で学び、フロントエンド(TypeScript、React)を独学で学んでいます。**
 
 ---
@@ -182,10 +182,8 @@ Djangoで作成した日記+TODOアプリ
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-sooty-six-56.vercel.app/api/top-langs/?username=Karuhito&layout=compact&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=Karuhito&locale=ja&theme=tokyonight" />
-</div>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 ---
 
