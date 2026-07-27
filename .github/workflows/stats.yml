@@ -18,7 +18,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=github_dark
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -26,7 +26,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact
+          options: username=${{ github.repository_owner }}&layout=compact&theme=github_dark
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -42,6 +42,7 @@ jobs:
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
             GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+            THEME: "github_dark"
         with:
             USERNAME: ${{ github.repository_owner }}
             BRANCH_NAME: "main"
