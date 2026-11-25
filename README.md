@@ -1,152 +1,90 @@
 # Karuhito's Profile
---- 
+
+**ポートフォリオサイト**: https://kazuto-enomoto.vercel.app/
+
+---
+
 ## 自己紹介
-**webエンジニア志望の専門スクール生(28卒)**
-**現在はバックエンド(Javaなど)を主にスクールで学び、フロントエンド(TypeScript、React)を独学で学んでいます。**
+
+**バックエンドエンジニア志望の専門スクール生(28卒)**
+
+現在はJavaやTypeScriptなどの開発言語やPostgreSQLなどデータベース言語、要件定義・設計など上流工程部分の考え方、基本情報技術者の資格学習など多岐にわたる範囲の学習をしています。
 
 ---
 
-## 🛠 技術スタック
+## Skills
 
-### ある程度使える技術
+### 言語
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,django,git,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=python" width="40" alt="Python" title="Python"> <img src="https://skillicons.dev/icons?i=java" width="40" alt="Java" title="Java"> <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" title="JavaScript"> <img src="https://skillicons.dev/icons?i=ts" width="40" alt="TypeScript" title="TypeScript">
 
-### 学習中
+### フレームワーク
 
-<p>
-<img src="https://skillicons.dev/icons?i=ts,react,java,spring,postgresql" />
-</p>
+<img src="https://skillicons.dev/icons?i=django" width="40" alt="Django" title="Django"> <img src="https://skillicons.dev/icons?i=spring" width="40" alt="Spring Boot" title="Spring Boot"> <img src="https://skillicons.dev/icons?i=fastapi" width="40" alt="FastAPI" title="FastAPI"> <img src="https://skillicons.dev/icons?i=react" width="40" alt="React" title="React">
 
----
+### データベース
 
-# 📌 制作物
+<img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL" title="MySQL"> <img src="https://skillicons.dev/icons?i=postgres" width="40" alt="PostgreSQL" title="PostgreSQL">
 
-## 🏫 スクールで制作したアプリ
+### その他
 
-### 📝 ジャーナルアプリ
-
-Djangoで作成した日記+TODOアプリ
-
-[![Repository URL1][badge-url]][repository1]
-
-[badge-url]:  https://img.shields.io/badge/github-repo-blue?logo=github
-[repository1]: https://github.com/Karuhito/JournaLog_app
-
-
-### 主な機能
-- Todo記録
-- 日記投稿
-- 編集 / 削除
-- ログイン機能
-
-### 使用技術
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,django,postgresql,supabase"/>
-</p>
-
-- HTML + CSS(BootStrap)
-- JS(一部アニメーション表示)
-- Python + Django
-- PostgreSQL(supabase)
-
-自分の習慣をアナログ -> デジタルに移行することを意識して制作しました。
-
-現在issueを管理しながらリファクタリングに取り組んでいます。
+<img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML" title="HTML"> <img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS" title="CSS"> <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" title="Git">
 
 ---
 
-### 🏋️ トレーニング記録アプリ
+## Projects
 
-スクール内でのチーム開発イベントに参加しトレーニング記録アプリを制作しました。
+### [JournaLog](https://github.com/Karuhito/JournaLog_app)
 
-[![Repository URL2][badge-url2]][repository2]
+[<img src="./assets/projects/journalog-screen.jpeg" width="480" alt="JournaLogのスクリーンショット">](https://github.com/Karuhito/JournaLog_app)
 
-[badge-url2]:  https://img.shields.io/badge/github-repo-blue?logo=github
-[repository2]: https://github.com/Tech-Jam-KDG-2026-Winter/Team-13-HTML-CSS-JS
+Djangoを用いて日常のタスクを管理できるWebアプリケーションを開発しました。その日のGoal、Todo、スケジュール、思ったことや振り返りを記録に残すことができます。このWebアプリケーションの開発では、Djangoでの基本的なCRUD操作を学びました。
 
-#### 主な機能
+`Python` `Django` `PostgreSQL` `JavaScript`
 
-- トレーニング記録
-- 消費カロリー計算
-- レスポンシブ対応（PC / モバイル）
+### [Fit Fight](https://github.com/Tech-Jam-KDG-2026-Winter/Team-13-HTML-CSS-JS)
 
-#### 使用技術
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,firebase"/>
-</p>
+[<img src="./assets/projects/fitfight-screen.jpeg" width="480" alt="Fit Fightのスクリーンショット">](https://github.com/Tech-Jam-KDG-2026-Winter/Team-13-HTML-CSS-JS)
 
-- HTML + CSS
-- Vanilla JS
-- Firebase
+チーム開発でFirebase+VanillaJSを用いて運動記録をスコア化し、フレンドと競い合うことができるWebアプリケーションを開発しました。私はスコア計算部分の実装や初期データの作成部分に携わりました。
 
-私は主に種目データ管理、消費カロリー計算、種目部位絞り込みの部分の実装を担当しました。
+`JavaScript` `Firebase` `チーム開発`
 
----
+### [GroupSync](https://github.com/Karuhito/group-schedule-adjustment-app)
 
-## 👤 個人制作アプリ
+[<img src="./assets/projects/groupsync-screen.jpeg" width="480" alt="GroupSyncのスクリーンショット">](https://github.com/Karuhito/group-schedule-adjustment-app)
 
-### 👜 忘れ物確認アプリ
+[開発中] Discordのアカウント認証を利用したWebアプリケーションを開発しています。フレンドに自分の空き時間の情報を共有し合うことで一緒にゲームする予定の時間の調整をすることができます。結合テスト段階で複数のバグが見つかっているので修正対応を進めています。
 
-外出する際に持っていくものをあらかじめリストにしてまとめておき、外出時に記録することで忘れ物を防ぐアプリを制作しました
+`TypeScript` `React` `Python` `FastAPI` `PostgreSQL`
 
-[![Repository URL3][badge-url3]][repository3]
+### [すっきりチェック](https://github.com/Karuhito/belongings-check-app)
 
-[badge-url3]:  https://img.shields.io/badge/github-repo-blue?logo=github
-[repository3]: https://github.com/Karuhito/belongings-check-app
+[<img src="./assets/projects/belongingcheck-screen.jpeg" width="480" alt="すっきりチェックのスクリーンショット">](https://github.com/Karuhito/belongings-check-app)
 
-#### 主な機能
-- アイテムの追加/削除
-- チェックボックスで持ち物の確認状態をトグル
-- データはブラウザのlocalStorageに自動保存(ページを閉じても消えない)
+持ち物管理ができるWebアプリケーションを開発しました。ここではブラウザのLocalStorageの仕組みを学び、必ずしもデータベースを使用する必要はないということや作るものの規模に応じてデータベースを使用するかの判断を学びました。
 
-#### 使用技術
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,ts,react,tailwind"/>
-</p>
+`TypeScript` `React` `LocalStorage`
 
-- TypeScript + React
-- Tailwind CSS
-- localStorage
+### [Inby](https://github.com/KDGT2026-Summer-Techjam/Team-B-Django)
 
-ブラウザのlocalStorageの仕組みを学ぶことを目的にする点と、日常でたまに起きる忘れ物を防止するために制作しました。
+[<img src="./assets/projects/inby-screen.jpeg" width="480" alt="Inbyのスクリーンショット">](https://github.com/KDGT2026-Summer-Techjam/Team-B-Django)
+
+チーム開発で季節の思い出をミッション型スタンプラリーのような形式で写真の記録を残せるWebアプリケーションを開発しました。私はチームリーダーとして、GitHub上でissueを利用したタスク管理、メンバーへのタスク割り振り、Renderへのデプロイ環境の設定などを行いました。
+
+`Python` `Django` `JavaScript` `PostgreSQL` `チーム開発`
+
+### [オーダールーム](https://github.com/sisicity4/OrderRoom)
+
+[<img src="./assets/projects/orderroom-screen.jpeg" width="480" alt="オーダールームのスクリーンショット">](https://github.com/sisicity4/OrderRoom)
+
+[開発中] ホームパーティなどを開く際に必要だと思うアイテムをメンバーが提案し、ホストがアイテムを採用、却下の判断を行い、予算や実際の費用、何をいくつ購入するかをまとめられるWebアプリケーションを開発中です。3人体制でリーダー、フロントエンド、バックエンド1人ずつの体制で、私はバックエンドを担当しています。
+
+`Java` `Spring Boot` `TypeScript` `React` `チーム開発`
 
 ---
 
-### ⌚️ グループ空き時間可視化アプリ
-
-グループ内の全員の共通の空き時間を可視化・共有できるアプリを制作しました。
-
-
-
-[![Repository URL4][badge-url4]][repository4]
-
-[badge-url4]:  https://img.shields.io/badge/github-repo-blue?logo=github
-[repository4]: https://github.com/Karuhito/group-schedule-adjustment-app
-
-#### 主な機能
-- Discord認証 (Discordアカウントでログイン)
-- グループ管理 グループ作成・招待コード生成
-- 時間を記録する機能
-- タイムライン表示 
-- グループ内メッセージ機能 (開発中)
-
-#### 使用技術
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,ts,python,postgresql,react,tailwind,fastapi,supabase"/>
-</p>
-
-- TypeScript + React
-- FastAPI
-- Supabase(PostgreSQL)
-
-コミュケーションアプリのDiscordで起きる通話募集をかけても誰も来ない問題を解決するためにアプリを開発しました。
-
----
-
-## 📚 学習の道のり
+## 学習の道のり
 
 ### 2024年
 **4月〜8月**
@@ -183,7 +121,7 @@ Djangoで作成した日記+TODOアプリ
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
@@ -191,7 +129,7 @@ Djangoで作成した日記+TODOアプリ
 
 ---
 
-## 🎯 今後の目標
+## 今後の目標
 
 - GitHubにポートフォリオを充実させる
 - IT資格の取得(基本情報技術等)
@@ -199,6 +137,6 @@ Djangoで作成した日記+TODOアプリ
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 ![Snake animation](https://github.com/Karuhito/Karuhito/blob/output/github-contribution-grid-snake.svg)
