@@ -34,68 +34,53 @@
 
 ## 📌 Projects
 
-<table>
-  <tr>
-    <td width="280" valign="top">
-      <a href="https://github.com/Karuhito/JournaLog_app"><img src="./assets/projects/journalog-screen.jpeg" width="260" alt="JournaLogのスクリーンショット"></a>
-    </td>
-    <td valign="top">
-      <strong>JournaLog</strong>　<a href="https://github.com/Karuhito/JournaLog_app">GitHub ↗</a><br><br>
-      Djangoを用いて日常のタスクを管理できるWebアプリケーションを開発しました。その日のGoal、Todo、スケジュール、思ったことや振り返りを記録に残すことができます。このWebアプリケーションの開発では、Djangoでの基本的なCRUD操作を学びました。<br><br>
-      <code>Python</code> <code>Django</code> <code>PostgreSQL</code> <code>JavaScript</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="280" valign="top">
-      <a href="https://github.com/Tech-Jam-KDG-2026-Winter/Team-13-HTML-CSS-JS"><img src="./assets/projects/fitfight-screen.jpeg" width="260" alt="Fit Fightのスクリーンショット"></a>
-    </td>
-    <td valign="top">
-      <strong>Fit Fight</strong>　<a href="https://github.com/Tech-Jam-KDG-2026-Winter/Team-13-HTML-CSS-JS">GitHub ↗</a><br><br>
-      チーム開発でFirebase+VanillaJSを用いて運動記録をスコア化し、フレンドと競い合うことができるWebアプリケーションを開発しました。私はスコア計算部分の実装や初期データの作成部分に携わりました。<br><br>
-      <code>JavaScript</code> <code>Firebase</code> <code>チーム開発</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="280" valign="top">
-      <a href="https://github.com/Karuhito/group-schedule-adjustment-app"><img src="./assets/projects/groupsync-screen.jpeg" width="260" alt="GroupSyncのスクリーンショット"></a>
-    </td>
-    <td valign="top">
-      <strong>GroupSync</strong>　<a href="https://github.com/Karuhito/group-schedule-adjustment-app">GitHub ↗</a><br><br>
-      [開発中] Discordのアカウント認証を利用したWebアプリケーションを開発しています。フレンドに自分の空き時間の情報を共有し合うことで一緒にゲームする予定の時間の調整をすることができます。結合テスト段階で複数のバグが見つかっているので修正対応を進めています。<br><br>
-      <code>TypeScript</code> <code>React</code> <code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="280" valign="top">
-      <a href="https://github.com/Karuhito/belongings-check-app"><img src="./assets/projects/belongingcheck-screen.jpeg" width="260" alt="すっきりチェックのスクリーンショット"></a>
-    </td>
-    <td valign="top">
-      <strong>すっきりチェック</strong>　<a href="https://github.com/Karuhito/belongings-check-app">GitHub ↗</a><br><br>
-      持ち物管理ができるWebアプリケーションを開発しました。ここではブラウザのLocalStorageの仕組みを学び、必ずしもデータベースを使用する必要はないということや作るものの規模に応じてデータベースを使用するかの判断を学びました。<br><br>
-      <code>TypeScript</code> <code>React</code> <code>LocalStorage</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="280" valign="top">
-      <a href="https://github.com/KDGT2026-Summer-Techjam/Team-B-Django"><img src="./assets/projects/inby-screen.jpeg" width="260" alt="Inbyのスクリーンショット"></a>
-    </td>
-    <td valign="top">
-      <strong>Inby</strong>　<a href="https://github.com/KDGT2026-Summer-Techjam/Team-B-Django">GitHub ↗</a><br><br>
-      チーム開発で季節の思い出をミッション型スタンプラリーのような形式で写真の記録を残せるWebアプリケーションを開発しました。私はチームリーダーとして、GitHub上でissueを利用したタスク管理、メンバーへのタスク割り振り、Renderへのデプロイ環境の設定などを行いました。<br><br>
-      <code>Python</code> <code>Django</code> <code>JavaScript</code> <code>PostgreSQL</code> <code>チーム開発</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="280" valign="top">
-      <a href="https://github.com/sisicity4/OrderRoom"><img src="./assets/projects/orderroom-screen.jpeg" width="260" alt="オーダールームのスクリーンショット"></a>
-    </td>
-    <td valign="top">
-      <strong>オーダールーム</strong>　<a href="https://github.com/sisicity4/OrderRoom">GitHub ↗</a><br><br>
-      [開発中] ホームパーティなどを開く際に必要だと思うアイテムをメンバーが提案し、ホストがアイテムを採用、却下の判断を行い、予算や実際の費用、何をいくつ購入するかをまとめられるWebアプリケーションを開発中です。3人体制でリーダー、フロントエンド、バックエンド1人ずつの体制で、私はバックエンドを担当しています。<br><br>
-      <code>Java</code> <code>Spring Boot</code> <code>TypeScript</code> <code>React</code> <code>チーム開発</code>
-    </td>
-  </tr>
-</table>
+### [JournaLog](https://github.com/Karuhito/JournaLog_app)
+
+[<img src="./assets/projects/journalog-screen.jpeg" width="480" alt="JournaLogのスクリーンショット">](https://github.com/Karuhito/JournaLog_app)
+
+Djangoを用いて日常のタスクを管理できるWebアプリケーションを開発しました。その日のGoal、Todo、スケジュール、思ったことや振り返りを記録に残すことができます。このWebアプリケーションの開発では、Djangoでの基本的なCRUD操作を学びました。
+
+`Python` `Django` `PostgreSQL` `JavaScript`
+
+### [Fit Fight](https://github.com/Tech-Jam-KDG-2026-Winter/Team-13-HTML-CSS-JS)
+
+[<img src="./assets/projects/fitfight-screen.jpeg" width="480" alt="Fit Fightのスクリーンショット">](https://github.com/Tech-Jam-KDG-2026-Winter/Team-13-HTML-CSS-JS)
+
+チーム開発でFirebase+VanillaJSを用いて運動記録をスコア化し、フレンドと競い合うことができるWebアプリケーションを開発しました。私はスコア計算部分の実装や初期データの作成部分に携わりました。
+
+`JavaScript` `Firebase` `チーム開発`
+
+### [GroupSync](https://github.com/Karuhito/group-schedule-adjustment-app)
+
+[<img src="./assets/projects/groupsync-screen.jpeg" width="480" alt="GroupSyncのスクリーンショット">](https://github.com/Karuhito/group-schedule-adjustment-app)
+
+[開発中] Discordのアカウント認証を利用したWebアプリケーションを開発しています。フレンドに自分の空き時間の情報を共有し合うことで一緒にゲームする予定の時間の調整をすることができます。結合テスト段階で複数のバグが見つかっているので修正対応を進めています。
+
+`TypeScript` `React` `Python` `FastAPI` `PostgreSQL`
+
+### [すっきりチェック](https://github.com/Karuhito/belongings-check-app)
+
+[<img src="./assets/projects/belongingcheck-screen.jpeg" width="480" alt="すっきりチェックのスクリーンショット">](https://github.com/Karuhito/belongings-check-app)
+
+持ち物管理ができるWebアプリケーションを開発しました。ここではブラウザのLocalStorageの仕組みを学び、必ずしもデータベースを使用する必要はないということや作るものの規模に応じてデータベースを使用するかの判断を学びました。
+
+`TypeScript` `React` `LocalStorage`
+
+### [Inby](https://github.com/KDGT2026-Summer-Techjam/Team-B-Django)
+
+[<img src="./assets/projects/inby-screen.jpeg" width="480" alt="Inbyのスクリーンショット">](https://github.com/KDGT2026-Summer-Techjam/Team-B-Django)
+
+チーム開発で季節の思い出をミッション型スタンプラリーのような形式で写真の記録を残せるWebアプリケーションを開発しました。私はチームリーダーとして、GitHub上でissueを利用したタスク管理、メンバーへのタスク割り振り、Renderへのデプロイ環境の設定などを行いました。
+
+`Python` `Django` `JavaScript` `PostgreSQL` `チーム開発`
+
+### [オーダールーム](https://github.com/sisicity4/OrderRoom)
+
+[<img src="./assets/projects/orderroom-screen.jpeg" width="480" alt="オーダールームのスクリーンショット">](https://github.com/sisicity4/OrderRoom)
+
+[開発中] ホームパーティなどを開く際に必要だと思うアイテムをメンバーが提案し、ホストがアイテムを採用、却下の判断を行い、予算や実際の費用、何をいくつ購入するかをまとめられるWebアプリケーションを開発中です。3人体制でリーダー、フロントエンド、バックエンド1人ずつの体制で、私はバックエンドを担当しています。
+
+`Java` `Spring Boot` `TypeScript` `React` `チーム開発`
 
 ---
 
