@@ -1,6 +1,6 @@
 # Karuhito's Profile
 
-🔗 **ポートフォリオサイト**: https://kazuto-enomoto.vercel.app/
+**ポートフォリオサイト**: https://kazuto-enomoto.vercel.app/
 
 ---
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠 Skills
+## Skills
 
 ### 言語
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 📌 Projects
+## Projects
 
 ### [JournaLog](https://github.com/Karuhito/JournaLog_app)
 
@@ -84,7 +84,7 @@ Djangoを用いて日常のタスクを管理できるWebアプリケーショ�
 
 ---
 
-## 📚 学習の道のり
+## 学習の道のり
 
 ### 2024年
 **4月〜8月**
@@ -121,7 +121,7 @@ Djangoを用いて日常のタスクを管理できるWebアプリケーショ�
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
@@ -129,7 +129,7 @@ Djangoを用いて日常のタスクを管理できるWebアプリケーショ�
 
 ---
 
-## 🎯 今後の目標
+## 今後の目標
 
 - GitHubにポートフォリオを充実させる
 - IT資格の取得(基本情報技術等)
@@ -137,6 +137,6 @@ Djangoを用いて日常のタスクを管理できるWebアプリケーショ�
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 ![Snake animation](https://github.com/Karuhito/Karuhito/blob/output/github-contribution-grid-snake.svg)
