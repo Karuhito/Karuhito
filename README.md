@@ -16,87 +16,19 @@
 
 ### 言語
 
-<table>
-  <tr>
-    <th width="130" nowrap>技術</th>
-    <th width="130" nowrap>習熟度</th>
-    <th>コメント</th>
-  </tr>
-  <tr>
-    <td nowrap>Python</td>
-    <td nowrap><strong>主に使用</strong></td>
-    <td>個人制作やチーム開発で使用した経験があります。</td>
-  </tr>
-  <tr>
-    <td nowrap>Java</td>
-    <td nowrap><strong>主に使用</strong></td>
-    <td>現在Java+Spring Bootで開発中のプロジェクトがあります。</td>
-  </tr>
-  <tr>
-    <td nowrap>JavaScript</td>
-    <td nowrap>使用経験あり</td>
-    <td>簡単なDOM操作やJournaLogやInbyで画面の表示切り替えなどフロント側の制御に使用した経験があります。</td>
-  </tr>
-  <tr>
-    <td nowrap>TypeScript</td>
-    <td nowrap>学習中</td>
-    <td>TypeScriptの特徴である型定義やJavaScript同様簡単なDOM操作はできます。授業や個人開発を通じて学習をしている状態です。</td>
-  </tr>
-</table>
-
-### データベース
-
-<table>
-  <tr>
-    <th width="130" nowrap>技術</th>
-    <th width="130" nowrap>習熟度</th>
-    <th>コメント</th>
-  </tr>
-  <tr>
-    <td nowrap>MySQL</td>
-    <td nowrap>使用経験あり</td>
-    <td>PostgreSQLを学ぶまではMySQLを主に使用していました。</td>
-  </tr>
-  <tr>
-    <td nowrap>PostgreSQL</td>
-    <td nowrap>使用経験あり</td>
-    <td>個人・チームどちらのプロジェクトでも使用して開発をした経験があります。</td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python" width="40" alt="Python" title="Python"> <img src="https://skillicons.dev/icons?i=java" width="40" alt="Java" title="Java"> <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" title="JavaScript"> <img src="https://skillicons.dev/icons?i=ts" width="40" alt="TypeScript" title="TypeScript">
 
 ### フレームワーク
 
-<table>
-  <tr>
-    <th width="130" nowrap>技術</th>
-    <th width="130" nowrap>習熟度</th>
-    <th>コメント</th>
-  </tr>
-  <tr>
-    <td nowrap>Django</td>
-    <td nowrap>使用経験あり</td>
-    <td>JournaLogとInbyの開発で使用した経験があります。</td>
-  </tr>
-  <tr>
-    <td nowrap>Spring Boot</td>
-    <td nowrap>学習中</td>
-    <td>現在チーム開発プロジェクトで使用しています。学びながら開発を進めている状況です。</td>
-  </tr>
-  <tr>
-    <td nowrap>FastAPI</td>
-    <td nowrap>学習中</td>
-    <td>GroupSyncで使用した経験がありますが、まだ理解しているとは言えない状態です。理解を深める必要があると考えています。</td>
-  </tr>
-  <tr>
-    <td nowrap>React</td>
-    <td nowrap>学習中</td>
-    <td>すっきりチェックの開発で使用した経験はありますが、まだ自信をもって理解しているとは言えない状態です。まだスキル向上の余地があると考えています。</td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=django" width="40" alt="Django" title="Django"> <img src="https://skillicons.dev/icons?i=spring" width="40" alt="Spring Boot" title="Spring Boot"> <img src="https://skillicons.dev/icons?i=fastapi" width="40" alt="FastAPI" title="FastAPI"> <img src="https://skillicons.dev/icons?i=react" width="40" alt="React" title="React">
+
+### データベース
+
+<img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL" title="MySQL"> <img src="https://skillicons.dev/icons?i=postgres" width="40" alt="PostgreSQL" title="PostgreSQL">
 
 ### その他
 
-HTML / CSS / Git
+<img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML" title="HTML"> <img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS" title="CSS"> <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" title="Git">
 
 ---
 
